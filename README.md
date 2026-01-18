@@ -39,5 +39,5 @@ Future Updates
 This repository will be updated gradually with additional HTML topics,
 including links, images, lists, forms, tables, and semantic elements.
 
-Author
+Author: 
 Rahul Kumar Das
